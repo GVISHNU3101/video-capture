@@ -1,10 +1,12 @@
 import cv2
 import time
 
-
+#for video names
 i =0
 
+#video length in sec
 capture_time = 3
+#video intervals in sec
 delay_time = 10
 while True:
 
